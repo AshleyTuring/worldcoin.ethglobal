@@ -1,0 +1,14 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/RawAssets/SpriteSheets/BlockchainSheet.tpsheet
+- Assets/RawAssets/SpriteSheets/ContentSheet.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/RawAssets/SpriteSheets/BlockchainSheet.png
+- Assets/RawAssets/SpriteSheets/ContentSheet.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+enableDebugOutput: 0
