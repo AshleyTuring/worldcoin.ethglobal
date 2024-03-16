@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:bd8380ac375d0452cf179c83e831aa00:06419b0f513df1bcbc920a3a63c2a096:ab410a27623c1ceced292ce437556eb0$
+#
+:format=40300
+:texture=BlockchainSheet.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+bnb-bnb-logo-3171629535 (Small);458;562;240;240; 0.5;0.5; 0;0;0;0
+Ethereum-ETH-icon;191;832;192;192; 0.5;0.5; 0;0;0;0
+Filecoin.svg;698;550;252;252; 0.5;0.5; 0;0;0;0
+Image 765;800;802;222;222; 0.5;0.5; 0;0;0;0
+Image 790;0;575;227;227; 0.5;0.5; 0;0;0;0
+Mask Group 652;383;824;200;200; 0.5;0.5; 0;0;0;0
+Mask Group 1010;227;571;231;231; 0.5;0.5; 0;0;0;0
+moonbeam-17;583;807;217;217; 0.5;0.5; 0;0;0;0
+Unique Network;0;833;191;191; 0.5;0.5; 0;0;0;0
