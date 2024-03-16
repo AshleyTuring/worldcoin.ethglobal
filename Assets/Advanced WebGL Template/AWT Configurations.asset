@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71743494deec8b24489b4592ead08203, type: 3}
+  m_Name: AWT Configurations
+  m_EditorClassIdentifier: 
+  _aspectRatio: 4
+  _forceToRotate: 0
+  _maxAspectRatioWidth: 1
+  _maxAspectRatioHeight: 1
+  _minAspectRatioWidth: 1
+  _minAspectRatioHeight: 1
+  _fixedAspectRatioWidth: 16
+  _fixedAspectRatioHeight: 9
+  _forceToRotateText: Please Rotate Your Device!
+  _antiAdBlocker: 1
+  _antiAdBlockerWarningTitle: Adblock Detected
+  _antiAdBlockerWarningDescription: Your browser is using the Adblock Plugin. To
+    continue website please disable adblock plugin.
+  _startToLoadButton: 0
+  _startToLoadButtonText: RUN GAME
+  _showAppStoreButton: 1
+  _microsoftStoreButtonLink: 
+  _showMicrosoftStoreButton: 0
+  _appStoreButtonLink: https://livetree.page.link/web-ios
+  _showPlayStoreButton: 1
+  _playStoreButtonLink: https://livetree.page.link/web-android
+  _showDescription: 0
+  _descriptionText: '[GAME NAME] is a multiplayer, first-person shooter game. The
+    game is in early development but is updated regularly with new content.'
+  _showFacebookButton: 0
+  _facebookButtonLink: https://u3d.as/1Xr0
+  _showTwitterButton: 0
+  _twitterButtonLink: https://u3d.as/1Xr0
+  _showGoogleButton: 0
+  _googleButtonLink: https://u3d.as/1Xr0
+  _showLinkedinButton: 0
+  _linkedinButtonLink: https://u3d.as/1Xr0
+  _showYoutubeButton: 0
+  _youtubeButtonLink: https://u3d.as/1Xr0
+  _showPrivacyPolicy: 1
+  _privacyPolicyLink: https://www.livetree.co.uk/privacy-statement/
+  _showTermsOfService: 1
+  _termsOfServiceLink: https://www.livetree.co.uk/terms-and-conditions/
+  _showCopyright: 1
+  _copyrightLink: 
+  _copyrightText: "Copyright \xA9 2023 Livetree"
+  _showGameLogo: 0
+  _gameLogoSize: 50
+  _showCompanyLogo: 1
+  _companyLogoSize: 100
+  _companyLogoLink: https://www.livetree.com/
+  _showProgressBar: 1
+  _showProgressText: 1
+  _showFullscreenButton: 0
+  _showWatchVideoButton: 0
+  _showPlayPongButton: 0
+  _watchVideoButtonText: WATCH TUTORIAL
+  _playPongButtonText: PLAY PONG
+  _watchVideoButtonAutoSize: 0
+  _playPongButtonAutoSize: 0
+  _watchVideoButtonFontSize: 12px
+  _playPongButtonFontSize: 13px
+  _watchVideoButtonYoutubeLink: 
+  _disableMobileWarning: 1
+  _targetPath: U:/Livetree/livetreeapp/WebApp/LivetreeWeb/ignore/Home_Moonbeam
+  _s11: "\r\n    &&& title2019start &&&<title>%UNITY_WEB_NAME%</title>&&& title2019end
+    &&&\r\n    &&& title2020start &&&<title>Subscription</title>&&& title2020end
+    &&&\r\n    &&& UnityLoader1 &&& <script src=\"%UNITY_WEBGL_LOADER_URL%\"></script>
+    &&& UnityLoader2 &&&\r\n    "
+  _s21: "\r\n        applicationInstance = UnityLoader.instantiate(\"gameContainer\",
+    \"%UNITY_WEBGL_BUILD_URL%\", {onProgress: UnityProgress});\r\n        "
+  _s31: "\r\n    var buildUrl = \"Build\";\r\n    var loaderUrl = buildUrl + \"/voc.loader.js\";\r\n   
+    var config = {\r\n        dataUrl: buildUrl + \"/voc.data.gz\",\r\n        frameworkUrl:
+    buildUrl + \"/voc.framework.js.gz\",\r\n        codeUrl: buildUrl + \"/voc.wasm.gz\",\r\n       
+    streamingAssetsUrl: \"StreamingAssets\",\r\n        companyName: \"Livetree\",\r\n       
+    productName: \"Subscription\",\r\n        productVersion: \"1.0\",\r\n    };\r\n    "
