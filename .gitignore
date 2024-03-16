@@ -64,7 +64,7 @@ Thumbs.db
 sysinfo.txt
 # Unity3D generated meta files
 *.pidb.meta
-
+*.meta
 ###
 # VS/MD solution and project files
 ###
@@ -91,23 +91,3 @@ sysinfo.txt
 Icon?
 ehthumbs.db
 Thumbs.db
-LivetreeApp/Assets/Plugins/JsonDotNet/Assemblies/Standalone.meta
-LivetreeApp/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll
-LivetreeApp/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll.meta
-LivetreeApp/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML
-LivetreeApp/Assets/Plugins/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML.meta
-LivetreeApp/Assets/AgoraEngine/README_ARFoundation.pdf
-LivetreeApp/Assets/AgoraEngine/README_ARFoundation.pdf.meta
-LivetreeApp/Assets/AgoraEngine/README_Video_QuickStart.pdf
-LivetreeApp/Assets/AgoraEngine/README_Video_QuickStart.pdf.meta
-LivetreeApp/Assets/AgoraEngine/releaseHistory.md
-LivetreeApp/Assets/AgoraEngine/releaseHistory.md.meta
-LivetreeApp/Assets/Plugins/Android/FirebaseCrashlytics.androidlib/res/values/crashlytics_build_id.xml
-
-LivetreeApp/remote_config_data
-LivetreeApp/UserSettings/EditorUserSettings.asset
-LivetreeApp/remote_config_data
-LivetreeApp/Logs/ApiUpdaterCheck.txt
-LivetreeApp/Packages/packages-lock.json
-LivetreeApp/Packages/manifest.json
-LivetreeApp/Packages/packages-lock.json
