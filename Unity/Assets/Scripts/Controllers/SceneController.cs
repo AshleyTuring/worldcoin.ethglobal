@@ -21,7 +21,7 @@ public class SceneController : MonoBehaviour
 
     public void OnJoinButtonPressed()
     {
-        FirebaseAuthHandler.Instance.JoinButtonPressed();
+        Auth0Handler.Instance.JoinButtonPressed();
         PackageHandler.Instance.CreateCurrentPackageCard();
         anim.SetTrigger("Join");
     }
@@ -30,7 +30,7 @@ public class SceneController : MonoBehaviour
     {
         anim.SetTrigger("Back");
         PackageHandler.Instance.DestroyCurrentPackage();
-        FirebaseAuthHandler.Instance.ResetScreen();
+        Auth0Handler.Instance.ResetScreen();
         foreach (var item in objectsToDisableOnBack)
         {
             item.SetActive(false);
